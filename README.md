@@ -17,3 +17,8 @@ With this application the possibility of authorizing endpoints through middlewar
         **Content:**
         
         "pong"
+
+    **Code:** 403 <br />
+        **Content:**
+        
+        "unauthorized"
